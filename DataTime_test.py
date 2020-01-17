@@ -13,7 +13,11 @@ delta = datetime.timedelta(deltan)
 rez_data = data + delta
 
 print(int(rez_data.year), end=' ')
-#print(int(rez_data.month), end=' ')
+print(int(rez_data.month), end=' ')
 print(int(rez_data.day))
 
 #test change
+
+print("hello GIT!")
+#git remote add origin https://github.com/vladprotsenko/Hello-world.git
+#git push -u origin master
